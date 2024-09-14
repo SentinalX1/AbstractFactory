@@ -1,0 +1,14 @@
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.AssemblyInfoInputs.cache
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.AssemblyInfo.cs
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.csproj.CoreCompileInputs.cache
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\bin\Debug\net6.0\FACTORYTEST.exe
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\bin\Debug\net6.0\FACTORYTEST.deps.json
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\bin\Debug\net6.0\FACTORYTEST.runtimeconfig.json
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\bin\Debug\net6.0\FACTORYTEST.dll
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\bin\Debug\net6.0\FACTORYTEST.pdb
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.dll
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\refint\FACTORYTEST.dll
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.pdb
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\FACTORYTEST.genruntimeconfig.cache
+C:\Users\T450s\source\repos\FACTORYTEST\FACTORYTEST\obj\Debug\net6.0\ref\FACTORYTEST.dll
